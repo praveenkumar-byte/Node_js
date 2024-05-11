@@ -1,0 +1,23 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "A simple project to work on Nodejs  ci/cd pipeline from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenkumar-byte/Node_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenkumar-byte/Node_js/issues"
+  },
+  "homepage": "https://github.com/praveenkumar-byte/Node_js#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
